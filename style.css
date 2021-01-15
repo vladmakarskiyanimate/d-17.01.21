@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(96, 189, 255);
+    font-size: 1.5em;
+    color: white;
+    text-shadow: 1px 1px 2px black, 0 0 1em rgba(208, 255, 0, 0.774);
+}
+.wrapper {
+    max-width: 650px;
+    margin: 50px auto 15px auto;
+}
+
+.h1{
+    text-align: center;
+    color: rgba(255, 0, 0, 0.815);
+    text-shadow: 1px 1px 2px black, 0 0 1em rgba(140, 255, 230, 0.781); 
+}
+
+.wr_img{
+    width: 100%;
+}
